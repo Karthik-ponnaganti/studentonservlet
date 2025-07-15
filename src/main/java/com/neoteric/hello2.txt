@@ -1,1 +1,2 @@
 modify the hello file
+adding the some basic details
